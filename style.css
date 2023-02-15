@@ -91,3 +91,35 @@ section button{
     width: 70px;
 
 }
+aside{
+    height:300px;
+    width:auto;
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+    padding top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+aside img {
+    height: 100px;
+    width: 100px;
+}
+.card{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+
+
+}
+.card h5{
+    margin: 20px;
+}
+.carc p{
+    text-align: center;
+    
+}
