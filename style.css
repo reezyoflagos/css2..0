@@ -121,5 +121,14 @@ aside img {
 }
 .carc p{
     text-align: center;
+
+}
+footer{
+    height:40px;
+    background-color: silver;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
+
 }
