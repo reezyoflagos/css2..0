@@ -1,0 +1,73 @@
+*{
+    padding:0%;
+    margin:auto;
+}   
+
+
+
+.money{
+display: flex;
+justify-content: space-between;
+padding-left: 40px ;
+padding-right: 40px;
+background-color: gray;
+font-size: 20px;
+height:70px;
+align-items: center;
+
+
+
+
+}
+.profit{
+    text-decoration: none;
+    padding-right:  40px;
+    
+    color:white;
+    text-align: end;
+
+
+}
+section button{
+    padding: 4px;
+    background-color:blanchedalmond;
+    border: 0;
+}
+.time{
+padding-left: 100px;
+padding-right: 100px;
+    
+
+}
+.run{
+    padding-left: 100px;
+    display: flex;
+    float:left;
+    width: 50%;
+    
+    
+    
+
+}
+.dark{
+    padding: 15px;
+    background: #35424a;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.sidebar{
+float: right;
+width: 30%;
+margin-top: 10px;
+}
+ 
+  .sun{
+    padding-left: 100px;
+ width:50%;
+ height: 50%;
+ float: left;
+  } 
+      

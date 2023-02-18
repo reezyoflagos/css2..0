@@ -14,6 +14,9 @@ nav{
     border-bottom: 5px solid orangered;
 
 }
+ul{
+    list-style: none;
+}
 .logo{
  color: white;
 }
@@ -39,7 +42,7 @@ span{
 .links a:active{
     color: orangered;
 }
-main{
+.tea{
     height:500px;
     background-image: url(send.JPG);
     background-size: cover;
@@ -48,18 +51,18 @@ main{
     align-items: center;
    
 }
-main h1{
+.tea h1{
     text-align: center;
     color: grey;
     font-size: 40px;
     margin-bottom: 30px;
 }
-main p{
+.tea p{
     text-align: center;
     color: black;
     font-size: 20px;
 }
-section {
+.news{
     width:auto;
     height: 80px;
     background-color: gray;
@@ -77,13 +80,15 @@ section p{
 
 }
 section input{
-    padding:10px;
+    padding:10px 80px 10px 10px;
+ 
+
     border-radius: 5px;
     border:0;
 
 }
 section button{
-    padding:10px;
+    padding:10px 4px 10px;
     border-radius: 5px;
     border: 0;
     background-color: orangered;
@@ -97,7 +102,7 @@ aside{
     display: flex;
     align-items: center;
     background-color: whitesmoke;
-    padding top: 20px;
+    padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 50px;
     padding-right: 50px;
@@ -124,11 +129,195 @@ aside img {
 
 }
 footer{
-    height:40px;
+    height:60px;
     background-color: silver;
     display: flex;
     align-items: center;
     justify-content: center;
     
+}
+.door{
+    background-color: gray;
+    display: flex;
+    height: 70px;
+    padding-top: 20px;
+    align-items: center;
+}
+.homo{
+    display: flex;
+    height: 600px;
+
 
 }
+.see{
+    min-width: 300px;
+    background-color:;
+
+}
+.run{
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color:;
+    text-align: center;
+}
+.seeker{
+    background-color: grey;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    margin: 50px 40px;
+    height: 270px;
+    
+}
+.food{
+    background-color: grey;
+    margin-top: 10px;
+    padding-left: 60px;
+    align-items: center;
+    margin-bottom: 280px;
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 10px;
+    text-size-adjust: 20px;
+    border: 0;
+    height: 340px;
+    
+}
+.food h3{
+    padding: 20px;
+    align-items: center;
+    padding-right: 40px;
+    text-align: center;
+    margin: 10px 10px
+
+}
+.power{
+    padding-left: 100px;
+    margin: 20px;
+    padding-right: 600px;
+    background-color: gainsboro;
+    
+
+}
+.flare{
+    padding-left: 100px;
+    margin: 20px;
+}
+.wood{
+    padding:10px 4px 10px;
+    border-radius: 5px;
+    border: 0;
+    background-color: orangered;
+    color:white;
+    width: 70px;
+    margin-left: 20px;
+    
+
+
+}
+.monopoly{
+    margin: 50px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+background-color: grey;
+text-align:left;
+max-width:15%;
+
+
+}
+.car{
+    margin-left: 20px;
+
+
+.rig{
+    margin-left: 20px;
+    justify-content: space-between;
+    display: flex;
+
+    
+}
+    
+
+    
+    
+} 
+.scar{
+    margin-left:20px;
+    size: 50%;
+    display: flex;
+    
+}
+.fun{
+    padding-left:80px;
+}
+.life{
+    
+}
+.kin{
+    font-size: 20px;
+    background-color:grey;
+    height: max-content;
+    padding: 10px 20px 10px 10px;
+    margin-right: 150px;
+}
+.bleed{
+    
+
+    padding-left: 80px;
+}
+.steady{
+    display: flex;
+}
+.fedex{
+    
+    background-color:grey;
+    height: max-content;
+    padding: 10px 20px 10px 10px;
+    padding-left: 30px;
+    margin-right: 150px;
+    
+
+    
+    
+    
+}
+.fedex  button{
+    padding: 8px 12px;
+    font-size: 14px;
+    background-color: red;
+    border: none;
+}
+.fedex input{
+    
+        font-size: 12px;
+}
+
+.omo{
+
+    
+    background-color: gray;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    margin-bottom: 5px;
+    width: 90%;
+    padding: 30px 15px;
+    border: 3px ;
+    margin-left: 80px;
+    
+
+}
+.final{
+    
+    margin-bottom: 5px;
+    width: 90%;
+    padding: 30px 15px;
+    
+}
+.soap{
+    background-color: gray;
+    height: max-content;
+    margin-right: 1000px;
+}
+
